@@ -1,0 +1,9 @@
+routes:
+   patterns:
+     - /owlbear
+     - /unicorn
+     - /manticore
+     - /illithid
+     - /beholder
+   unmatched: heuristic
+
